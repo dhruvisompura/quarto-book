@@ -4,4 +4,4 @@ This is a Quarto book.
 
 To learn more about Quarto books visit <https://quarto.org/docs/books>.
 
-I have edited this on Oct 9 2025
+I have edited this on Oct 10 2025
